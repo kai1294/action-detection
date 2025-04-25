@@ -1,0 +1,2 @@
+A demonstration of computer vision with face/hand/body detection using python and MediaPipe. Created by me (@kai1294) and @Ahmed-Estaonboly as a school project in 2022.
+This project detects hands, faces, and bodies through the computer's webcam and does different actions based on the number of fingers raised or closed or the pose of the body, as well as some other miscellaneous demonstrations such as a mesh drawn on the surface of the face.
